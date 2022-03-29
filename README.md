@@ -115,31 +115,31 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 
 If you didn't do App Academy Open in Tier 0, please consider doing it as your Specialization in this Tier.
 
-| Courses                                                                                                                                                                                                |   Status   |   Evidence   |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                               |            |              |
-| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2)                                                                                          |            |              |
-| [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                       |            |              |
-| Do this: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous)                                                               |            |              |
-| Or, this: [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)              |            |              |
-| [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)                                                                                                                        |            |              |
-| [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)                                                                                                                         |            |              |
-| [Software Testing](https://www.udacity.com/course/software-testing--cs258)                                                                                                                             |            |              |
-| [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)                                                                           |            |              |
-| **Reading**                                                                                                                                                                                            | **Status** | **Evidence** |
-| [MDN HTML - Advanced topics](https://developer.mozilla.org/en-US/docs/Web/HTML#Advanced_topics)                                                                                                        |            |              |
-| [MDN CSS - Reference - Key Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS#Reference)                                                                                                       |            |              |
-| [MDN JavaScript - Tutorials - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript#JavaScript_guide)                                                                              |            |              |
-| [You Don't Know JS: Get Started](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)                                                                                                   |            |              |
-| [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)                                                                                           |            |              |
-| [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)                |            |              |
-| **Practice**                                                                                                                                                                                           | **Status** | **Evidence** |
-| Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/)                                                                                                                         |            |              |
-| Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018)                                                                                                    |            |              |
-| Tier Programming Project                                                                                                                                                                               |            |              |
-| Tier Programming Project                                                                                                                                                                               |            |              |
-| **Specialization**                                                                                                                                                                                     | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization. |            |              |
+| Courses                                                                                                                                 |   Status   |   Evidence   |
+| :-------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
+| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                |            |              |
+| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2)                                          |            |              |
+| [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)        |            |              |
+| Do this: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous)|            |              |
+| Or, this: [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)                                                                                                                      |            |              |
+| [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)                                                         |            |              |
+| [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)                                                          |            |              |
+| [Software Testing](https://www.udacity.com/course/software-testing--cs258)                                                              |            |              |
+| [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)            |            |              |
+| **Reading**                                                                                                                             | **Status** | **Evidence** |
+| [MDN HTML - Advanced topics](https://developer.mozilla.org/en-US/docs/Web/HTML#Advanced_topics)                                         |            |              |
+| [MDN CSS - Reference - Key Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS#Reference)                                        |            |              |
+| [MDN JavaScript - Tutorials - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript#JavaScript_guide)               |            |              |
+| [You Don't Know JS: Get Started](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)                                    |            |              |
+| [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)                            |            |              |
+| [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)                                                                                                                        |            |              |
+| **Practice**                                                                                                                            | **Status** | **Evidence** |
+| Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/)                                                          |     🚧     |              |
+| Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018)                                     |            |              |
+| Tier Programming Project                                                                                                                |            |              |
+| Tier Programming Project                                                                                                                |            |              |
+| **Specialization**                                                                                                                      | **Status** | **Evidence** |
+| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization.                                                                                                      |            |              |
 
 <br><br>
 
